@@ -1,0 +1,11 @@
+D:\VS_Projects\TechModule\RegEx\2.1\bin\Debug\netcoreapp2.0\2.1.deps.json
+D:\VS_Projects\TechModule\RegEx\2.1\bin\Debug\netcoreapp2.0\2.1.runtimeconfig.json
+D:\VS_Projects\TechModule\RegEx\2.1\bin\Debug\netcoreapp2.0\2.1.runtimeconfig.dev.json
+D:\VS_Projects\TechModule\RegEx\2.1\bin\Debug\netcoreapp2.0\2.1.dll
+D:\VS_Projects\TechModule\RegEx\2.1\bin\Debug\netcoreapp2.0\2.1.pdb
+D:\VS_Projects\TechModule\RegEx\2.1\obj\Debug\netcoreapp2.0\2.1.csprojAssemblyReference.cache
+D:\VS_Projects\TechModule\RegEx\2.1\obj\Debug\netcoreapp2.0\2.1.csproj.CoreCompileInputs.cache
+D:\VS_Projects\TechModule\RegEx\2.1\obj\Debug\netcoreapp2.0\2.1.AssemblyInfoInputs.cache
+D:\VS_Projects\TechModule\RegEx\2.1\obj\Debug\netcoreapp2.0\2.1.AssemblyInfo.cs
+D:\VS_Projects\TechModule\RegEx\2.1\obj\Debug\netcoreapp2.0\2.1.dll
+D:\VS_Projects\TechModule\RegEx\2.1\obj\Debug\netcoreapp2.0\2.1.pdb
